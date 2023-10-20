@@ -1,5 +1,5 @@
 # DoorGuardian-Autonomous-Security-System
-Contributors:  Nippun Sabharwal, Vayun Gupta, Nippun Sabharwal 
+Contributors:  Nippun Sabharwal, Vayun Gupta, Siddarth Natarajan
  
 **Abstract:**
 The idea for this project stemmed from our everyday experience having to use an ID Card to unlock doors across campus. Apart from the obvious hassles of using such a system, it separates the identity of a person from their innate self and assigns it to a piece of plastic. We believe that widespread distribution of a convenient way for authentication offers a novel opportunity to democratize smart lock technology and make transit simpler and faster. 
