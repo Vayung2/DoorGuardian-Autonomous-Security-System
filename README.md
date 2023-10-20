@@ -126,8 +126,9 @@ The camera is powered by a voltage of 3.3V and generates an image of 0.3 megapix
 
   
 Fig 4: OV7670 - Arduino Connection
-![image](https://github.com/nippun-live/DoorGuardian-Autonomous-Security-System/assets/39922328/8e256342-14b6-42ac-b9d8-e37e08d794a7)
 ![image](https://github.com/nippun-live/DoorGuardian-Autonomous-Security-System/assets/39922328/e15cff28-5542-445e-9e4c-513ae216fa7f)
+![image](https://github.com/nippun-live/DoorGuardian-Autonomous-Security-System/assets/39922328/8e256342-14b6-42ac-b9d8-e37e08d794a7)
+
 
 
 **4.1.3 Arduino UNO R3**
