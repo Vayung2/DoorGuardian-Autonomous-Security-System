@@ -125,10 +125,10 @@ The pins on the camera module send the image data on the Arduino and using the A
 The camera is powered by a voltage of 3.3V and generates an image of 0.3 megapixels. The reason associated with the time delay with image generation is related to the XCLK, PCLK and TCLK pins on the camera, which generate an image upon the clock cycle of the camera. 
 
   
-Fig 4: OV7670 - Arduino Connection
-![image](https://github.com/nippun-live/DoorGuardian-Autonomous-Security-System/assets/39922328/e15cff28-5542-445e-9e4c-513ae216fa7f)
-![image](https://github.com/nippun-live/DoorGuardian-Autonomous-Security-System/assets/39922328/8e256342-14b6-42ac-b9d8-e37e08d794a7)
 
+![image](https://github.com/nippun-live/DoorGuardian-Autonomous-Security-System/assets/39922328/e15cff28-5542-445e-9e4c-513ae216fa7f)
+![image](https://github.com/nippun-live/DoorGuardian-Autonomous-Security-System/assets/39922328/1d663797-18af-4c68-8d7a-c4e15fc7a666)
+Fig 4: OV7670 - Arduino Connection
 
 
 **4.1.3 Arduino UNO R3**
